@@ -1,0 +1,8 @@
+{
+  "format": 1,
+  "description": "Install-time lock file generated from Modrinth-compatible releases.",
+  "minecraft": "1.20.1",
+  "loader": "fabric",
+  "installer": "install_pack.ps1 or install_pack.sh",
+  "note": "No mod jars are bundled. The installer resolves and downloads compatible releases when run."
+}
